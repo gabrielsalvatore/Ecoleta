@@ -3,7 +3,7 @@
     </h1>
   
   <p align="center">
-  <img width="250" src="public/img/logo-nlw.svg">
+  <img width="250" src="public/assets/logo-nlw.svg">
 </p>
 
 _________
