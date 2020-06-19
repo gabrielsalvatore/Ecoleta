@@ -1,9 +1,9 @@
 <h1 align="center">
-    Next Level Week by <img src="">
+    Next Level Week by <img src="public/assets/rocketseat.svg">
     </h1>
   
   <p align="center">
-  <img width="250" src="public/img/logo-nlw.svg">
+  <img width="250" src="public/assets/logo-nlw.svg">
 </p>
 
 _________
