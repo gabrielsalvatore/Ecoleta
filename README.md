@@ -1,5 +1,5 @@
 <h1 align="center">
-    Next Level Week by <img src="public/img/rocketseat.svg">
+    Next Level Week by <img src="public/rocketseat.svg">
     </h1>
   
   <p align="center">
