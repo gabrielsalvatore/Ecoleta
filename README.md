@@ -8,7 +8,7 @@
 
 _________
 
-### 🤔 What it is? 
+### 🤔 What is it? 
 NLW is an online experience developed by Rocketseat of a week
 with a lot of practical content and challenges.
 It is a project that helps us to go to our next "level" of our career.
