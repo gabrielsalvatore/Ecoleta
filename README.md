@@ -15,7 +15,7 @@ It is a project that helps us to go to the next "level" of our career.
   
 ### ✨ About the project:
 <img src="public/assets/logo.svg">
-Ecoleta is a project created to manage the process of trash collectionin cities. 
+Ecoleta is a project created to manage the process of trash collection in cities. 
 With him, it is possible to help people to findplaces where they can take their 
 trash to be collected in a more efficient way
   
