@@ -27,12 +27,6 @@ networking with other devs that were participating in the event, sharing knowled
 We've learned how to utilize JavaScript, Git, NodeJS, Nunjucks, database and etc. Each
 of the new knowledge was very valuable. By now I only have to be grateful to Rocketseat and to the other devs that I have met over this weekend and this unique experience that
 they have provided.
- 
-<h2 align="center"> 📷 GIF do projeto: </h2>
-<p align="center">
-<img width="600" src="public/img/1.gif">
-</p>
 
-_________
-<h4 align="center"> Projeto finalizado ❤ </h4>
+<h4 align="center"> THE END </h4>
 
